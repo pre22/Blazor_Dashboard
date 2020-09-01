@@ -442,6 +442,8 @@ C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\B
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Blazor_Dashboard.pdb
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Components\Dashboard.razor.g.cs
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Razor\Shared\Components\Dashboard.razor.g.cs
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\NvaHpZvHfYjcsJn3E5dZEJwOMJ1mnpGN5muXUb_w7mk=.hash
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\I5YnfMIsCJJ1Ri39r41vulMjLR1Bob6Pt-SoqXXdass=.hash
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\e-smi8QxIDMa0VGYEJfTiJfm86v6DwuW1v5POhqXuuE=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\RazorDeclaration\Pages\RegistrationPage.razor.g.cs
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Razor\Pages\RegistrationPage.razor.g.cs
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\u85IIcgLDnj-qjfE6-tL5kORb6VSiPvIuD8dA_l-FLM=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\mmkJz3BfsWOR4eEr3UTep1_LIICnpaSmCdE7cbvUvuw=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\-xl2zJImaaVj0e2UBi01IrJP9FFC9EUzJPekzlcepd0=.hash
