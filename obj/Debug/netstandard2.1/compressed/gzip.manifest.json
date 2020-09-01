@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\u85IIcgLDnj-qjfE6-tL5kORb6VSiPvIuD8dA_l-FLM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\h5xFpqelJcYcs1ZUf6EcA6Jgfjcsjjb_woaBAoFKdEA=.hash",
       "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor_Dashboard.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor_Dashboard.dll.gz"
     },
@@ -156,9 +156,9 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\US9G_7jhXsnfq7O5Czd9PXXFTgjXA7fc81jA2cw8Fbk=.hash",
-      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Syncfusion.Blazor.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Syncfusion.Blazor.dll.gz"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
+      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\z9ZqQJczYPWVS5SenjaMC7g9pE6V2m8x5cNa7k7Ev98=.hash",
@@ -211,21 +211,6 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ubyINHXDmWOAugBDEb8CCz_uV68eordXiYDxpUeRBvg=.hash",
-      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.CSharp.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.CSharp.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FhgvjHTNr65QepyQUZw9WDcJlDRJA-uc30S5nTeih6k=.hash",
-      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Syncfusion.PdfExport.Net.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Syncfusion.PdfExport.Net.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\36W9jcZZdBFe-2QAZjhzHtL643azBIDtWMnw8sN-RBU=.hash",
-      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Syncfusion.ExcelExport.Net.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Syncfusion.ExcelExport.Net.dll.gz"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
       "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
@@ -256,9 +241,24 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
-      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\US9G_7jhXsnfq7O5Czd9PXXFTgjXA7fc81jA2cw8Fbk=.hash",
+      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Syncfusion.Blazor.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Syncfusion.Blazor.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ubyINHXDmWOAugBDEb8CCz_uV68eordXiYDxpUeRBvg=.hash",
+      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.CSharp.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.CSharp.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FhgvjHTNr65QepyQUZw9WDcJlDRJA-uc30S5nTeih6k=.hash",
+      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Syncfusion.PdfExport.Net.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Syncfusion.PdfExport.Net.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\36W9jcZZdBFe-2QAZjhzHtL643azBIDtWMnw8sN-RBU=.hash",
+      "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Syncfusion.ExcelExport.Net.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Syncfusion.ExcelExport.Net.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BPeXAMTZKR8pJ7LpQA8_w4soJFGV1TLt2PPpnmpBUeE=.hash",
@@ -336,7 +336,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mmkJz3BfsWOR4eEr3UTep1_LIICnpaSmCdE7cbvUvuw=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0rGtGEytiIP8zPiiFtRms__TSaF5TAVzawwXumyPb3U=.hash",
       "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Blazor_Dashboard.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazor_Dashboard.pdb.gz"
     },
@@ -366,7 +366,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-xl2zJImaaVj0e2UBi01IrJP9FFC9EUzJPekzlcepd0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\082vhP-agPP2Hx0JhmTIIQTpykLx-TQFAafi2PwSpmc=.hash",
       "Source": "C:\\Users\\HP-PROBOOK\\Documents\\GitHub\\Blazor_Dashboard\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }
