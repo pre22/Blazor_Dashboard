@@ -448,6 +448,6 @@ C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\R
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Components\SideNav\SideNavStyles.razor.g.cs
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Razor\Shared\Components\SideNav\SideNav.razor.g.cs
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Razor\Shared\Components\SideNav\SideNavStyles.razor.g.cs
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\h5xFpqelJcYcs1ZUf6EcA6Jgfjcsjjb_woaBAoFKdEA=.hash
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\0rGtGEytiIP8zPiiFtRms__TSaF5TAVzawwXumyPb3U=.hash
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\082vhP-agPP2Hx0JhmTIIQTpykLx-TQFAafi2PwSpmc=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\TEfcJ6z5XmNTMKKVvcvLzeF8-PydA2nFJEACT14yNYM=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\09XQp8niS2Q3AFNQyHXGUHazvvLLZJSJxhTFvrEGFcA=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\hLLkSkEuQCavDE78Xpm4cm8cSbOpIa6xrme4bhbcn-k=.hash
