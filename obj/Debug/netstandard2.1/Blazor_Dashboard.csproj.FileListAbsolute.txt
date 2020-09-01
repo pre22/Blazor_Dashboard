@@ -216,7 +216,6 @@ C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\R
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Blazor_Dashboard.RazorTargetAssemblyInfo.cache
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Blazor_Dashboard.csproj.CopyComplete
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\7ykSnzWoijXZWkLa7TBmJYEhet4H7XQ7ksiy3eAoCso=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -283,14 +282,12 @@ C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\i
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\t3GtJc9pue2wzplFi0GVJCRIjdm8Tfxphplh6Qrv2q8=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\itUtKKCpo2e5yuxPqn6PXeJEYMNdygaA3vFsiDaQ85Y=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\4oG-elQ7G0autPBJaIZ3ajus9DuzEg-_LQhQDQU1MtM=.hash
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazor_Dashboard.dll.gz
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -443,3 +440,8 @@ C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\s
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\staticwebassets\Blazor_Dashboard.StaticWebAssets.xml
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Blazor_Dashboard.dll
 C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Blazor_Dashboard.pdb
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Components\Dashboard.razor.g.cs
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\Razor\Shared\Components\Dashboard.razor.g.cs
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\NvaHpZvHfYjcsJn3E5dZEJwOMJ1mnpGN5muXUb_w7mk=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\I5YnfMIsCJJ1Ri39r41vulMjLR1Bob6Pt-SoqXXdass=.hash
+C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\obj\Debug\netstandard2.1\integrity\e-smi8QxIDMa0VGYEJfTiJfm86v6DwuW1v5POhqXuuE=.hash

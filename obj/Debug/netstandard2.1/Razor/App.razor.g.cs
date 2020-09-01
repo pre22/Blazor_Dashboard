@@ -79,6 +79,13 @@ using Syncfusion.Blazor;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\_Imports.razor"
+using Blazor_Dashboard.Shared.Components;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

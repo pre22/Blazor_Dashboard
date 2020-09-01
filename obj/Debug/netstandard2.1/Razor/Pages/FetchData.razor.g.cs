@@ -79,6 +79,13 @@ using Syncfusion.Blazor;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\HP-PROBOOK\Documents\GitHub\Blazor_Dashboard\_Imports.razor"
+using Blazor_Dashboard.Shared.Components;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
